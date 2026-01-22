@@ -1,0 +1,9 @@
+streamlit
+folium
+streamlit-folium
+geopy
+requests
+pandas
+plotly
+fpdf
+qrcode
